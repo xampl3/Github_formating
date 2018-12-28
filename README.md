@@ -3,12 +3,13 @@
 I am learning Github so this is my progress  
 
 # Heading  
-or  
+or    
 Heading
 ===
 
 ## Subheading
 or 
+
 Subheading
 ---
 
