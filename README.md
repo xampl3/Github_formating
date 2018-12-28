@@ -24,7 +24,7 @@ Subheading
  
  ---
 
- Divided
+ Divided  
  *Divided in Italic*
  **Divided in bold**
  
