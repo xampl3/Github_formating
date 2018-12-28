@@ -2,8 +2,8 @@
 
 I am learning Github so this is my progress  
 
-#Heading 
-or
+# Heading  
+or  
 Heading
 ===
 
